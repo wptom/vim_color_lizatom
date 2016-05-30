@@ -12,7 +12,7 @@ coming soon..
 
 ## Contributors
 
-[wptomi](https://github.com/wptomi)
+[wptomi](https://github.com/wptom)
 
 ## License
 
